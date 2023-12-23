@@ -39,6 +39,11 @@ Quick Reference
 [Github Copilot](./docs/github-copilot.md)<!--rehype:style=background: rgb(125 45 220);&class=tag contributing&data-lang=AI&data-info=👆看看还缺点儿什么？-->
 <!--rehype:class=home-card-->
 
+## 渗透测试-工具
+
+[Metasploit](./docs/Metasploit.md)<!--rehype:style=background: rgb(238 76 44);-->  
+<!--rehype:class=home-card-->
+
 ## 编程
 
 [Bash](./docs/bash.md)<!--rehype:style=background: rgb(72 143 223);-->  
