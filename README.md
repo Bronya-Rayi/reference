@@ -338,6 +338,9 @@ Quick Reference
 <a href="https://github.com/wsypower" title="魏">
   <img src="https://avatars.githubusercontent.com/u/31298317?v=4" width="42;" alt="魏"/>
 </a>
+<a href="https://github.com/lvelvee" title="Lve Lvee">
+  <img src="https://avatars.githubusercontent.com/u/25785753?v=4" width="42;" alt="Lve Lvee"/>
+</a>
 <a href="https://github.com/13812700839" title="花殇">
   <img src="https://avatars.githubusercontent.com/u/58072506?v=4" width="42;" alt="花殇"/>
 </a>
@@ -397,9 +400,6 @@ Quick Reference
 </a>
 <a href="https://github.com/likeshop-github" title="LikeShop技术社区">
   <img src="https://avatars.githubusercontent.com/u/77180968?v=4" width="42;" alt="LikeShop技术社区"/>
-</a>
-<a href="https://github.com/lvelvee" title="Lve Lvee">
-  <img src="https://avatars.githubusercontent.com/u/25785753?v=4" width="42;" alt="Lve Lvee"/>
 </a>
 <a href="https://github.com/mariuszmichalowski" title="Mariusz Michalowski">
   <img src="https://avatars.githubusercontent.com/u/92091891?v=4" width="42;" alt="Mariusz Michalowski"/>
@@ -614,7 +614,7 @@ Quick Reference
 
 由于中国国内访问，时常打不开，你可以访问下面镜像网站(国内打不开的不再收录)。推荐自己的[镜像网站](https://github.com/jaywcjlove/reference/discussions/206#discussion-4625735)
 
-[dev.bi](https://dev.bi)<!--rehype:target=_blank-->
+[dev.bi](https://dev.bi)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
 [server.wiki](https://ref.server.wiki)<!--rehype:target=_blank-->
 [nihaosi.com](https://refs.nihaosi.com)<!--rehype:target=_blank-->
 [quickref.cn](https://quickref.cn)<!--rehype:target=_blank-->
@@ -671,6 +671,7 @@ Quick Reference
 [fifo.site](https://ref.fifo.site)<!--rehype:target=_blank-->
 [gaojs.com.cn](https://study.gaojs.com.cn)<!--rehype:target=_blank-->
 [15926.tech](https://ref.15926.tech)<!--rehype:target=_blank-->
+[jeffjade.com](https://codehelp.jeffjade.com)<!--rehype:target=_blank-->
 <!--rehype:class=home-card home-links-->
 
 如果你有资源，可以很方便[部署 web 版](https://github.com/jaywcjlove/reference/issues/102#issue-1451649637)，这非常简单，只需要克隆 [gh-pages](https://github.com/jaywcjlove/reference/tree/gh-pages) 分支代码到你的静态服务就可以了，还可以使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版。
